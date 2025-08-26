@@ -21,31 +21,6 @@ Insured objects include:
 - **Person** (natural or legal person),  
 - **Vehicle** (car, bus, etc.).  
 
-## Project Structure
-
-src/
-├── company/
-│ └── InsuranceCompany.java
-├── contracts/
-│ ├── AbstractContract.java
-│ ├── AbstractVehicleContract.java
-│ ├── InvalidContractException.java
-│ ├── MasterVehicleContract.java
-│ ├── SingleVehicleContract.java
-│ └── TravelContract.java
-├── objects/
-│ ├── LegalForm.java
-│ ├── Person.java
-│ └── Vehicle.java
-└── payment/
-├── ContractPaymentData.java
-├── PaymentHandler.java
-├── PaymentInstance.java
-└── PremiumPaymentFrequency.java
-test/
-└── RequiredTests.java
-
-
 ## Requirements
 
 - **Java 17+**  
