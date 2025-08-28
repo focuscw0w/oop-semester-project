@@ -3,7 +3,7 @@
 This project is an implementation of the **B-OOP 2025** semester assignment.  
 The goal is to design a simplified **insurance system** for small insurance companies in **Java**.
 
-## Project Overview
+## Overview
 
 The system supports three types of insurance contracts:
 
